@@ -1,0 +1,15 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "notebook.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.experimentalTernaries": true,
+    "prettier.insertPragma": true,
+    "prettier.requireConfig": true,
+    "prettier.requirePragma": true,
+    "prettier.resolveGlobalModules": true,
+    "prettier.singleQuote": true,
+    "prettier.singleAttributePerLine": true,
+    "editor.formatOnSave": true,
+    "notebook.formatOnSave.enabled": true,
+    "editor.defaultColorDecorators": true,
+    "editor.defaultFoldingRangeProvider": "esbenp.prettier-vscode"
+}

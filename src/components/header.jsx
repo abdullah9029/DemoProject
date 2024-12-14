@@ -6,7 +6,7 @@ export default function Header() {
   const [horseType, setHorseType] = useState('');
   const [horseTypes, setHorseTypes] = useState([]);
   const [buttonState, setButtonState] = useState(true);
-  const [editText, setEditText] = useState(false);
+
   const [editIndex, setEditIndex] = useState(null);
 
     const handleChange = (e) => {  
